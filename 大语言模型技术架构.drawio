@@ -4,17 +4,59 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DdCZI7sGwDG0cpfRlnXC-1" value="AI平台层" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="560" height="180" as="geometry" />
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="560" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="DdCZI7sGwDG0cpfRlnXC-2" value="模型层" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="160" y="170" width="510" height="80" as="geometry" />
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-2" value="模型" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="DdCZI7sGwDG0cpfRlnXC-3" value="云原生层" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=0;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=0;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="560" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DdCZI7sGwDG0cpfRlnXC-4" value="基础设施层" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=0;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=0;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="380" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-6" value="基&lt;div&gt;础&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;施&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="375" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-7" value="云&lt;div&gt;原&lt;/div&gt;&lt;div&gt;生&lt;br&gt;&lt;div&gt;层&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="285" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-8" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;技&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;术&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;平&lt;/span&gt;&lt;div&gt;台&lt;br&gt;&lt;div&gt;&lt;div&gt;层&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="115" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-11" value="数据" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-12" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20transparent%3B%20color%3A%20light-dark(rgb(0%2C%200%2C%200)%2C%20rgb(255%2C%20255%2C%20255))%3B%26quot%3B%26gt%3B%E6%8A%80%26lt%3B%2Fspan%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20transparent%3B%20color%3A%20light-dark(rgb(0%2C%200%2C%200)%2C%20rgb(255%2C%20255%2C%20255))%3B%26quot%3B%26gt%3B%E6%9C%AF%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20transparent%3B%20color%3A%20light-dark(rgb(0%2C%200%2C%200)%2C%20rgb(255%2C%20255%2C%20255))%3B%26quot%3B%26gt%3B%E5%B9%B3%26lt%3B%2Fspan%26gt%3B%26lt%3Bdiv%26gt%3B%E5%8F%B0%26lt%3Bbr%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B%E5%B1%82%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22120%22%20y%3D%22125%22%20width%3D%2240%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="420" y="70" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-13" value="大语言模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-14" value="视觉语言模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-15" value="音频语言模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-16" value="智能文档理解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-17" value="多模态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-19" value="数据抓取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-20" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-21" value="数据向量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DdCZI7sGwDG0cpfRlnXC-22" value="访问控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
