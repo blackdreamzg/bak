@@ -216,7 +216,7 @@
         <mxCell id="23LsGYQeWHpihlJRXSzl-11" value="存储" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="690" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="23LsGYQeWHpihlJRXSzl-12" value="MaaS&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;（&lt;span style=&quot;text-align: left;&quot;&gt;类海科方舟平台，&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;未来向集团迁移&lt;/span&gt;）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+        <mxCell id="23LsGYQeWHpihlJRXSzl-12" value="MaaS&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;（&lt;span style=&quot;text-align: left;&quot;&gt;类海科轻舟平台，&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;未来向集团平台迁移&lt;/span&gt;）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="140" y="430" width="60" height="210" as="geometry" />
         </mxCell>
         <mxCell id="23LsGYQeWHpihlJRXSzl-13" value="数据管理" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
